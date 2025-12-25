@@ -46,3 +46,7 @@ docs/instructions/Roadmap.md
 .cursorrules
 *.md
 .qodo
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
